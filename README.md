@@ -104,6 +104,7 @@ finetuning_type: lora
 
 llamafactory-cli chat "/home/lgd/e_commerce_lmm/LLaMA-Factory-0.9.0/examples/inference/qwen2_vl.yaml"
 ```
+
 ### 3.模型训练（复现XrayQwen2VL）
 
 <details>
@@ -160,6 +161,7 @@ eval_steps: 1000
 export export CUDA_VISIBLE_DEVICES=3,4,5,6
 llamafactory-cli train "/home/lgd/e_commerce_lmm/LLaMA-Factory-0.9.0/examples/train_lora/qwen2vl_lora_sft.yaml"
 ```
+
 这里的复现过程非常简单，主要是很多过程我们都为大家准备好了，大家可以随时复现一个自己的`XrayQwenVL`。
 
 ## 效果展示
