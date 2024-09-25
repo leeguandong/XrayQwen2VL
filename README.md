@@ -113,6 +113,7 @@ llamafactory-cli chat "/home/lgd/e_commerce_lmm/LLaMA-Factory-0.9.0/examples/inf
 </details>
 - （1）准备[诊疗报告(中文)](./data/openai-zh-llamafactory-qwen2vl-prompt.json)和[X光影像](https://pan.baidu.com/s/13GBsDMKf6xBZBSHpoWH_EA?pwd=k9sh)在`data/Xray`文件夹下；
 - （2）开始训练：
+
 ```bash
 yaml文件
 ### model
