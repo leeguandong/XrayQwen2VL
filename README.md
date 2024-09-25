@@ -6,9 +6,6 @@ Xray Large Multi-model Model，基于Qwen2VL微调Xray的多模态大模型，�
       <a href='https://github.com/leeguandong/XrayQwen2VL'>
             <img src='https://img.shields.io/badge/Project-Page-Green'>
       </a>
-      <a href='https://github.com/leeguandong/XrayQwen2VL'>
-            <img src='https://img.shields.io/badge/Paper-Arxiv-red'>
-      </a>
       </br>
       <a href="https://github.com/leeguandong/XrayQwen2VL/graphs/contributors">
         <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/leeguandong/XrayQwen2VL" />
